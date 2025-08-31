@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Munavar Ahmed 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="40px"> Hi, I am Munavar Ahmed 👨‍💻
 
 I am a Frontend Developer and Backend enthusiast. I am passionate about technologies and love to learn new things.
 
@@ -18,7 +18,7 @@ Here are a few things I've picked up along my learning journey.
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
  
  
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/munavar-123?theme=nord&font=PT%20Sans)
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munavar-ahmed-b903812a3/) 
